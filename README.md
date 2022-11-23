@@ -58,4 +58,16 @@
 > Deve acessar os pull request do repositório, realizar o code review e depois fazer o merge
 </details>
 
+-------------------------------------------------------
+<details>
+<summary>Extra - Extensões para <b>chrome</b></summary>
+
+
+- [Blackbox](https://www.useblackbox.io/)
+    > Use o Blackbox para selecionar o código que deseja copiar de qualquer vídeo que estiver assistindo e simplesmente cole-o em seu editor de texto…. Funciona como mágica!
+- [Grepper](https://chrome.google.com/webstore/detail/grepper/amaaokahonnfjjemodnpmeenfpnnbkco)
+    > Obtenha facilmente exemplos de código em toda a Web e acesse seus exemplos de código sem ter que pensar.
+
+</details>
+
 ###### tags: `git` `github` `commit` `merge` `pull request` `fork`
