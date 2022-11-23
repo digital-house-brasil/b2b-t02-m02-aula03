@@ -60,6 +60,25 @@
 
 -------------------------------------------------------
 <details>
+<summary>Extra - Gerando Chave SSH e Vinculando com o Github</summary>
+
+
+- Passo 1: Abrir o terminal do windows como administrador
+- Passo 2: Executar o seguinte comando no terminal `ssh-keygen`
+- Passo 3: Vai aparecer o local onde ficará salvo o par de chaves ssh, basta apertar `Enter`
+- Passo 4: Depois será solicitado para digitar a senha, coloque a mesma senha de acesso do seu computador
+- Passo 5: Repita a senha
+- Passo 6: Acesse o diretório onde ficou salvo o par de chaves ssh e abra o arquivo `id_rsa.pub`
+- Passo 7: Copie o conteúdo existente e feche o arquivo
+- Passo 8: Acesse sua conta do github e depois acesso as configurações da conta
+    > Para acessar as configurações, basta você clicar no ícone superior direito, onde tem a foto do perfil da conta, clique na seta ao lado e depois localize a opção `settings`
+- Passo 9: Após acessar as configurações, localize no menu vertical esquerdo a opção `SSH and GPG Keys` e clique nela
+- Passo 10: Clique na opção `New SSH Key`, vai aparecer o local para colocar um título (`title`) e uma chave (`key`)
+- Passo 11: Coloque o no título `Windows` e na chave, você deve colar o conteúdo que você copiou lá no passo 7
+- Passo 12: Clique o botão `Add SSH Key`
+</details>
+
+<details>
 <summary>Extra - Extensões para <b>chrome</b></summary>
 
 
